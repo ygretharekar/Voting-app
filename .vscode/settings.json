@@ -3,5 +3,6 @@
     "python.condaPath": "C:\\Users\\Admin\\AppData\\Local\\conda\\conda\\envs\\djangoenv",
     "pythonTestExplorer.testFramework": "pytest",
     "python.analysis.disabled": [],
-    "python.autoComplete.addBrackets": true
+    "python.autoComplete.addBrackets": true,
+    "python.pythonPath": "C:\\Users\\Admin\\AppData\\Local\\conda\\conda\\envs\\condadjango\\python.exe"
 }
