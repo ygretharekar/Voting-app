@@ -1,8 +1,8 @@
 {
     "python.linting.pylintEnabled": true,
     "python.condaPath": "C:\\Users\\Admin\\AppData\\Local\\conda\\conda\\envs\\djangoenv",
-    "pythonTestExplorer.testFramework": "pytest",
     "python.analysis.disabled": [],
     "python.autoComplete.addBrackets": true,
-    "python.pythonPath": "C:\\Users\\Admin\\AppData\\Local\\conda\\conda\\envs\\condadjango\\python.exe"
+    "python.pythonPath": "C:\\Users\\Admin\\AppData\\Local\\conda\\conda\\envs\\condadjango\\python.exe",
+    "pythonTestExplorer.testFramework": "unittest"
 }
